@@ -1,0 +1,3 @@
+[submodule "ascii-art-web"]
+	path = ascii-art-web
+	url = https://zone01normandie.org/git/maximediet/ascii-art-web.git
